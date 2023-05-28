@@ -1,0 +1,103 @@
+# Anthill keys, 0 = is not inserted, 1 = is inserted
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+# Beetle friend data
+0
+
+# Collected tools, screw driver, wire cutter, wrech
+0
+0
+0
+
+# Food items: almond, banana, blackberry, coconut
+0
+0
+0
+0
+
+# Upgrades
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+# Machine repairs
+0
+0
+0
+
+# Tutorial data
+0
+0
+0
+0
+0
+0
+0
+
+# Post-tutorial data
+0
+0
+
+# Reload into area
+Town
+50
+0
+TheDoor13
+0
+0
+0
+0
+
+# Visited a door
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+# Play time
+0
+0
+
+# Won
+0
+
+# Fast Travel
+0
+
+# Talked to eating rat before
+0
+
+# Visited areas
+0
+0
+0
+0
+
+# Forest Door
+0
